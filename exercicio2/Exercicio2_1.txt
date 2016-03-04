@@ -1,0 +1,7 @@
+Tipo Abstrato de Dado (TAD): é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados.
+ 
+  Classe: é uma estrutura que abstrai um conjunto de objetos com características similares. Uma classe define o comportamento de seus objetos através de métodos e os estados possíveis destes objetos através de atributos.
+ 
+  Objeto: Um objeto é capaz de armazenar estados através de seus atributos e reagir a mensagens enviadas a ele, assim como se relacionar e enviar mensagens a outros objetos
+ 
+  Mensagem: é uma chamada a um objecto para invocar um de seus métodos, ativando um comportamento descrito por sua classe.
