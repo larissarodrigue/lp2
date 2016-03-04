@@ -1,0 +1,1 @@
+A palavra-chave new é para instanciar um objeto. Ele reserva memória para o objeto e cria uma referência pra ele. Precisamos usar o método construtor que será usado para instanciar a classe e gerar o objeto.
