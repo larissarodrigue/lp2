@@ -1,0 +1,1 @@
+As diferenças dos exercícios é a questão das variáveis. No exercício 3 foi o usado variavéis do tipo inteiro, que não conta as casas decimais. Já no exercício 4 e 5 que usam float e double que mostra as casas decimais. 
