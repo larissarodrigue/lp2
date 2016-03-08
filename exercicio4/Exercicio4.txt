@@ -1,2 +1,7 @@
 Exercício 1, Resposta c)4.0
+Exercício 2, Resposta b)2
+Exercício 3, Resposta d)Uma exceção é levantda 
+Exercício 4, Resposta d)Uma exceção é levantda 
+Exercício 5, Resposta d)Nada, pois ocorreu um erro de compilação
+Exercício 6, Resposta a)3
 
